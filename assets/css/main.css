@@ -218,14 +218,14 @@ ins {
     font-weight: 100 900;
     font-style: normal;
     font-display: swap;
-    src: url(https://www.lntrealty.com/wp-content/themes/lntrealty/assets/fonts/inter/Inter-upright-var.woff2) format("woff2");
+    src: url(https://www.lntrealty.com/assets/fonts/inter/Inter-upright-var.woff2) format("woff2");
 }
 @font-face {
     font-family: "Inter var";
     font-weight: 100 900;
     font-style: italic;
     font-display: swap;
-    src: url(https://www.lntrealty.com/wp-content/themes/lntrealty/assets/fonts/inter/Inter-italic-var.woff2) format("woff2");
+    src: url(https://www.lntrealty.com/assets/fonts/inter/Inter-italic-var.woff2) format("woff2");
 }
 .comment-respond #submit,
 .comment-respond label,
@@ -2545,7 +2545,7 @@ span.play_btn {
     width: 45px;
     height: 45px;
     left: 35%;
-    background-image: url(https://www.lntrealty.com/wp-content/themes/lntrealty/assets/images/icon-play-btn.webp);
+    background-image: url(https://www.lntrealty.com/assets/images/icon-play-btn.webp);
     background-size: 100%;
 }
 .section .short-desc {
@@ -3313,7 +3313,7 @@ span.play_btn {
     font-weight: 100 900;
     font-style: italic;
     font-display: swap;
-    src: url(https://www.lntrealty.com/wp-content/themes/lntrealty/assets/fonts/elmessiri/ElMessiri-VariableFont_wght.ttf) format("ttf");
+    src: url(https://www.lntrealty.com/assets/fonts/elmessiri/ElMessiri-VariableFont_wght.ttf) format("ttf");
 }
 
 .masterhead-section-media img {

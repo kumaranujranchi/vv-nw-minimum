@@ -533,7 +533,7 @@ ul.rera-list li p strong {
     right: 20px;
     bottom: -3%;
     padding: 0;
-    background-image: url(/wp-content/themes/lntrealty/assets/images/btn-arrow.png);
+    background-image: url(/assets/images/btn-arrow.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center left;
@@ -613,7 +613,7 @@ ul.rera-list li p strong {
     max-width: 28%;
     padding: 1rem 1.8rem;
     min-height: 46px;
-    background: url(/wp-content/themes/lntrealty/assets/images/select_br_down.png) right no-repeat #fff;
+    background: url(/assets/images/select_br_down.png) right no-repeat #fff;
     -webkit-appearance: none;
     background-position-x: 95%;
 }
